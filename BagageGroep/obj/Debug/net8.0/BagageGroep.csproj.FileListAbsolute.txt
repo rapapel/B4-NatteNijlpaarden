@@ -1,0 +1,14 @@
+/home/amano/bagagekluizen/BagageGroep/bin/Debug/net8.0/BagageGroep
+/home/amano/bagagekluizen/BagageGroep/bin/Debug/net8.0/BagageGroep.deps.json
+/home/amano/bagagekluizen/BagageGroep/bin/Debug/net8.0/BagageGroep.runtimeconfig.json
+/home/amano/bagagekluizen/BagageGroep/bin/Debug/net8.0/BagageGroep.dll
+/home/amano/bagagekluizen/BagageGroep/bin/Debug/net8.0/BagageGroep.pdb
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/BagageGroep.GeneratedMSBuildEditorConfig.editorconfig
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/BagageGroep.AssemblyInfoInputs.cache
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/BagageGroep.AssemblyInfo.cs
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/BagageGroep.csproj.CoreCompileInputs.cache
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/BagageGroep.dll
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/refint/BagageGroep.dll
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/BagageGroep.pdb
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/BagageGroep.genruntimeconfig.cache
+/home/amano/bagagekluizen/BagageGroep/obj/Debug/net8.0/ref/BagageGroep.dll
