@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/amano/bagagekluizen/BagageGroep/BagageGroep.csproj": {}
+    "C:\\laragon\\www\\B4-NatteNijlpaarden\\BagageGroep\\BagageGroep.csproj": {}
   },
   "projects": {
-    "/home/amano/bagagekluizen/BagageGroep/BagageGroep.csproj": {
+    "C:\\laragon\\www\\B4-NatteNijlpaarden\\BagageGroep\\BagageGroep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/amano/bagagekluizen/BagageGroep/BagageGroep.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\B4-NatteNijlpaarden\\BagageGroep\\BagageGroep.csproj",
         "projectName": "BagageGroep",
-        "projectPath": "/home/amano/bagagekluizen/BagageGroep/BagageGroep.csproj",
-        "packagesPath": "/home/amano/.nuget/packages/",
-        "outputPath": "/home/amano/bagagekluizen/BagageGroep/obj/",
+        "projectPath": "C:\\laragon\\www\\B4-NatteNijlpaarden\\BagageGroep\\BagageGroep.csproj",
+        "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\B4-NatteNijlpaarden\\BagageGroep\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/amano/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rapha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
